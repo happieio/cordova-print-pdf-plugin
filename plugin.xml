@@ -7,7 +7,6 @@
 	<name>PrintPDF</name>
 	<description>Cordova Print PDF Plugin</description>
 	<license>MIT</license>
-	<dependency id="cordova-plugin-ios-base64" url="https://github.com/sarahgoldman/cordova-plugin-ios-base64" />
 	<js-module src="www/PrintPDF.js" name="PrintPDF">
 		<clobbers target="window.PrintPDF" />
 	</js-module>
